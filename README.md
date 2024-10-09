@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-## contact information:
+## Contact information:
 [Facebook](#)
 
