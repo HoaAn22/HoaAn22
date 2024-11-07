@@ -1,5 +1,3 @@
-## About me
-
 Welcome to HoaAn22's GitHub
 
 ## Education
