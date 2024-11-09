@@ -5,7 +5,7 @@ I’m currently studying Data Science at IUH - Industrial University of Ho Chi M
 
 ## Experience
 - Proficient in programming with Python.
-- Experienced with tools and frameworks like Docker, Git, TensorFlow, etc.
+- Experienced with tools and frameworks like Git, Numpy, Pandas, Docker, Airflow, TensorFlow, etc.
 
 ## Highlighted Projects
 Here are a few notable projects:
