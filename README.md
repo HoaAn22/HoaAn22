@@ -9,6 +9,6 @@ I’m currently studying Data Science at IUH - Industrial University of Ho Chi M
 
 ## Highlighted Projects
 Here are a few notable projects:
-- **[HoaAn22.github.io](HoaAn22.github.io)**: A personal blog for sharing knowledge about Data Science and Finance.
+- [HoaAn22.github.io](hoaan22.github.io): A personal blog for sharing knowledge about Data Science and Finance.
 
 ## Contact
